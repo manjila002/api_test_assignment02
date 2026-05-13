@@ -1,7 +1,7 @@
 # Project Name: DMoney API Testing
 
 ## Project Description:
-This is a basic API testing project. Here in this projec -
+This is a basic API testing project. Here in this project -
 - Created 2 customers and 1 agent using API
 - Activated all users using Admin API
 - Deposited 5000 TK from the system account to the agent account
